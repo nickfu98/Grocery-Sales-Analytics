@@ -17,7 +17,7 @@ This dashboard was created to demonstrate:
 
 ## Project Structure
 
-# 1. Grocery Sales Overview (Page 1)
+# 1. Grocery Sales Overview
 
 ![Page 1](images/Grocery_Sales_01.png)
 
@@ -38,9 +38,9 @@ This dashboard was created to demonstrate:
 
 ---
 
-# 2. Sales Breakdown (Page 2)
+# 2. Sales Breakdown
 
-![Page 2](images/page_02_sales_breakdown.png)
+![Page 2](images/Grocery_Sales_02.png)
 
 ### **Key Questions Answered**
 - How do sales vary across cities, regions, and salespeople?
@@ -55,9 +55,9 @@ This dashboard was created to demonstrate:
 - Slicers for Month, Salesperson, Region
 ---
 
-# 3. Customer Analytics (Page 3)
+# 3. Customer Analytics
 
-![Page 3](images/page_03_customer_analytics.png)
+![Page 3](images/Grocery_Sales_03.png)
 
 ### **Key Questions Answered**
 - Who are the top customers by total spend?
@@ -77,7 +77,7 @@ This dashboard was created to demonstrate:
 
 # 4. Geographic Breakdown (Page 4)
 
-![Page 4](images/page_04_geographical_breakdown.png)
+![Page 4](images/Grocery_Sales_04.png)
 
 ### **Key Questions Answered**
 - Which cities generate the highest and lowest sales?
@@ -90,9 +90,9 @@ This dashboard was created to demonstrate:
 
 ---
 
-# 5. Sales Root Cause Analysis (Page 5)
+# 5. Sales Root Cause Analysis
 
-![Page 5](images/page_05_root_cause_analysis.png)
+![Page 5](images/Grocery_Sales_05.png)
 
 ### **Key Questions Answered**
 - What is driving sales performance across different dimensions?
@@ -112,7 +112,7 @@ This provides a true root-cause analysis workflow typical of executive BI dashbo
 
 # 6. Key Drivers of Performance (Page 6)
 
-![Page 6](images/page_06_key_drivers.png)
+![Page 6](images/Grocery_Sales_06.png)
 
 ### **Key Questions Answered**
 - What factors increase the likelihood of above/below average sales performance?

@@ -19,7 +19,7 @@ This dashboard was created to demonstrate:
 
 # 1. Grocery Sales Overview (Page 1)
 
-![Page 1](images/grocery_sales_01.png)
+![Page 1](images/Grocery_Sales_01.png)
 
 ### **Key Questions Answered**
 - What were total sales and average sales per month?

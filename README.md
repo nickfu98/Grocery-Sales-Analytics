@@ -1,7 +1,8 @@
-# Grocery Sales Analytics Dashboard (Power BI)
+# End-to-End Grocery Sales Intelligence
 
-This project analyzes 6 million rows of synthetic grocery sales data from January–April 2018 using Power BI.  
-The dashboard provides insights into sales performance, geographic trends, salesperson behavior, customer analytics, and key drivers of sales performance.
+This project explores a synthetic grocery dataset containing ~6 million order line items recorded between January and April 2018.
+Using Power BI, the analysis breaks down nationwide sales trends, regional performance, customer behavior, and operational drivers across product categories, cities, and sales teams.
+The final dashboard highlights executive KPIs, geographic insights, salesperson contribution patterns, customer segmentation, and AI-driven diagnostics to provide a full sales intelligence experience.
 
 ---
 
